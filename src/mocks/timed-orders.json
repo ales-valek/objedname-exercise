@@ -1,0 +1,71 @@
+{
+  "Status": "OK",
+  "Message": "OK",
+  "Data": [
+    {
+      "Time": "09:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "10:00",
+      "Capacity": 1,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "11:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "12:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "13:00",
+      "Capacity": 0,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "14:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "15:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "16:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "17:00",
+      "Capacity": 1,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "18:00",
+      "Capacity": 1,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "19:00",
+      "Capacity": 0,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "20:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    },
+    {
+      "Time": "21:00",
+      "Capacity": 2,
+      "OriginalCapacity": 2
+    }
+  ]
+}
